@@ -2,7 +2,7 @@
 
 I'm Nicolás and this is my repository!
 
-I work as a Developer at Baufest, my interests are Software and Web Depeveloment. 💻 
+I work as a Developer at Baufest, my interests are Software and Web Depeveloment. 💻 <br/>
 This year I finished the System Analist career (a pre-grade IT career of 3 years of duration).✔️
 
 After of that, I wanted to still learning so I joined the Platzi community (an educative online platform about technology) 🚀
