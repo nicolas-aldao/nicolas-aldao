@@ -12,8 +12,8 @@ Besides technology, I love to learn new things, specially those which make your 
 I love to read about personal development, philosophy, theology and inspirational stories. 📚<br/>
 In my free time I like to play the guitar and sing (even though people say I'm not good at it haha). 🎻
 
-Contact me at
-https://www.linkedin.com/in/nicolas-aldao/
+Contact me at<br/>
+https://www.linkedin.com/in/nicolas-aldao/<br/>
 nicolasaldao@live.com
 
 Thanks for visiting me and have a good day!
